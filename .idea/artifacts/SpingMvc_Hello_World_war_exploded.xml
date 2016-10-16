@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SpingMvc_Hello World:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpingMvc_Hello_World_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SpingMvc_Hello World/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SpingMvc_Hello World" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
